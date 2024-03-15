@@ -1,2 +1,0 @@
-def cleandown():
-  print("Doei)
