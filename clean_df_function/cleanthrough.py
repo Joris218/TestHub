@@ -1,2 +1,0 @@
-def cleanthrough():
-    print("Gedag")
